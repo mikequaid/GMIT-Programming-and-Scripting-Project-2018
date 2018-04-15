@@ -22,11 +22,11 @@ The Iris flower data set is a [multivariate data set](http://www.camo.com/multiv
 ## Use of the Iris data-set
 The Iris flower data-set is now widely used as a data-set for testing purposes in computer science.
 
- - New types of sorting models and taxonomy algorithms often use the Iris flower data set as an input, to examine how various technologies sort and handle data sets. Programmers might, for example, download the Iris flower data set for the purposes of testing a decision tree, or a piece of machine learning software. For this reason, the Iris flower data set is built into some coding libraries, in order to make this process easier [2].
+ - New types of sorting models and taxonomy algorithms often use the Iris flower data set as an input, to examine how various technologies sort and handle data sets. Programmers might, for example, download the Iris flower data set for the purposes of testing a decision tree, or a piece of machine learning software. For this reason, the Iris flower data set is built into some coding libraries, in order to make this process easier [3].
 
  - The data-set a good example to explain the difference between supervised and unsupervised techniques in data mining , as in its use by the [IBM Watson analytics engine](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/)[4].
 
- - Based on Fisher's linear discriminant model, this data set became a typical test case for many [statistical classification](https://en.wikipedia.org/wiki/Statistical_classification) techniques in machine learning such as support vector machines (2).
+ - Based on Fisher's linear discriminant model, this data set became a typical test case for many [statistical classification](https://en.wikipedia.org/wiki/Statistical_classification) techniques in machine learning such as support vector machines [2].
 
 
 
@@ -37,7 +37,7 @@ The Iris flower data-set is now widely used as a data-set for testing purposes i
 
 2 Iris flower data-set https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-3 https://www.techopedia.com/definition/32880/iris-flower-data-set
+3 IBM https://www.techopedia.com/definition/32880/iris-flower-data-set
 
 4 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
 
