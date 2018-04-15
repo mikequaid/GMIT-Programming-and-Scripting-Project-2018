@@ -1,6 +1,6 @@
 # GMIT-Programming-and-Scripting-Project-2018
 
-This project concerns the well-known Fisher Iris dataset. The project requirements entail researching the dataset and writing documentation and Python code based on that research.
+This project concerns the well-known Fisher Iris dataset. The project requirements entail researching the dataset and writing documentation and Python programming language [1] based on that research.
 
 The following are some guidelines for the project content:
 1.	Research background information about the data set and write a summary about it.
@@ -10,9 +10,9 @@ The following are some guidelines for the project content:
 5.	Write a summary of your investigations.
 6.	Include supporting tables and graphics.
 
-## Background information about the Iris data-set (1)
+## Background information about the Iris data-set [1]
 
-The Iris flower data set is a specific set of information compiled by [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher),a British statistician and geneticist,in the 1930s. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system.
+The Iris flower data-set is a specific set of information compiled by [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher),a British statistician and geneticist,in the 1930s. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system.
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a [linear discriminant model](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) to distinguish the species from each other.
 
@@ -22,22 +22,24 @@ The Iris flower data set is a [multivariate data set](http://www.camo.com/multiv
 ## Use of the Iris data-set
 The Iris flower data-set is now widely used as a data-set for testing purposes in computer science.
 
- - New types of sorting models and taxonomy algorithms often use the Iris flower data set as an input, to examine how various technologies sort and handle data sets. Programmers might, for example, download the Iris flower data set for the purposes of testing a decision tree, or a piece of machine learning software. For this reason, the Iris flower data set is built into some coding libraries, in order to make this process easier (2).
+ - New types of sorting models and taxonomy algorithms often use the Iris flower data set as an input, to examine how various technologies sort and handle data sets. Programmers might, for example, download the Iris flower data set for the purposes of testing a decision tree, or a piece of machine learning software. For this reason, the Iris flower data set is built into some coding libraries, in order to make this process easier [2].
 
- - The data-set a good example to explain the difference between supervised and unsupervised techniques in data mining , as in its use by the [IBM Watson analytics engine](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/)(3).
+ - The data-set a good example to explain the difference between supervised and unsupervised techniques in data mining , as in its use by the [IBM Watson analytics engine](https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/)[4].
 
- - Based on Fisher's linear discriminant model, this data set became a typical test case for many [statistical classification](https://en.wikipedia.org/wiki/Statistical_classification) techniques in machine learning such as support vector machines (1).
+ - Based on Fisher's linear discriminant model, this data set became a typical test case for many [statistical classification](https://en.wikipedia.org/wiki/Statistical_classification) techniques in machine learning such as support vector machines (2).
 
 
 
 
 
 # References
-1 https://en.wikipedia.org/wiki/Iris_flower_data_set
+1 Python Software https://www.python.org/
 
-2 https://www.techopedia.com/definition/32880/iris-flower-data-set
+2 Iris flower data-set https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-3 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
+3 https://www.techopedia.com/definition/32880/iris-flower-data-set
+
+4 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
 
 
 
