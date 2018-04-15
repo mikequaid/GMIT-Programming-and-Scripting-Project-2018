@@ -12,7 +12,8 @@ The following are some guidelines for the project content:
 
 ## Background information about the Iris dataset(1)
 
-The Iris flower data set is a specific set of information compiled by [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher),a British statistician and geneticist,in the 1930s. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system.The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
+The Iris flower data set is a specific set of information compiled by [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher),a British statistician and geneticist,in the 1930s. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system.
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a [linear discriminant model](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) to distinguish the species from each other.
 
 The Iris flower data set is a multivariate data set introduced by Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of [linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis).
 
