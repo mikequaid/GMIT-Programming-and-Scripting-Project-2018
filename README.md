@@ -16,7 +16,7 @@ The Iris flower data set is a specific set of information compiled by [Ronald Fi
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a [linear discriminant model](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) to distinguish the species from each other.
 
-The Iris flower data set is a multivariate data set introduced by Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of [linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis).
+The Iris flower data set is a [multivariate data set](http://www.camo.com/multivariate_analysis.html) introduced by Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
 
 ## Use of the data set (2)
