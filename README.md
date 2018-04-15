@@ -10,7 +10,7 @@ The following are some guidelines for the project content:
 5.	Write a summary of your investigations.
 6.	Include supporting tables and graphics.
 
-## Background information about the Iris data-set [1]
+## Background information about the Iris data-set [2]
 
 The Iris flower data-set is a specific set of information compiled by [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher),a British statistician and geneticist,in the 1930s. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system.
 
@@ -37,9 +37,9 @@ The Iris flower data-set is now widely used as a data-set for testing purposes i
 
 2 Iris flower data-set https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-3 IBM https://www.techopedia.com/definition/32880/iris-flower-data-set
+3 https://www.techopedia.com/definition/32880/iris-flower-data-set
 
-4 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
+4 IBM https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
 
 
 
