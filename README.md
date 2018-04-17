@@ -32,10 +32,10 @@ The Iris flower data-set is now widely used as a data-set for testing purposes i
 
 The following were required before any python scrits were written:
 
- - Python version 3.6 downloaded (via [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+ - Python version 3.6 downloaded (via [Anaconda])(https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
  - [Microsoft Visual Studio tool](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) installed
  - Copy of Iris data-set created as a text file in my project folder on my laptop
- - 
+ - Libraries imported: csv, pandas, numpy, matplotlib and sklearn
 
 # References
 1 Python Software https://www.python.org/
