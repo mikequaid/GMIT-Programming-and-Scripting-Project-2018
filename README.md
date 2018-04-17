@@ -28,9 +28,14 @@ The Iris flower data-set is now widely used as a data-set for testing purposes i
 
  - Based on Fisher's linear discriminant model, this data set became a typical test case for many [statistical classification](https://en.wikipedia.org/wiki/Statistical_classification) techniques in machine learning such as support vector machines [2].
 
+## Preparation required to write python code to analyse the Iris data-set
 
+The following were required before any python scrits were written:
 
-
+ - Python version 3.6 downloaded (via [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+ - [Microsoft Visual Studio tool](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) installed
+ - Copy of Iris data-set created as a text file in my project folder on my laptop
+ - 
 
 # References
 1 Python Software https://www.python.org/
