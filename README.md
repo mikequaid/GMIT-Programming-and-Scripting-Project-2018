@@ -41,8 +41,8 @@ The following were required before any python scrits were written:
 Python libraries are collections of functions and methods that allows you to perform numerous actions and functions.Pandas - for data-frame management package that allows for some useful function on the dataset. Numpy - package useful for lineal algebra. Matplotlib - good package to contruct visualizations. Sklearn - package important to do machine learning in python.
 
 ## The following calculations and analysis were performed on the data-set
- - Minimum,Maximum and Mean of each column
- - Median and Standard Deviation
+ - Minimum,Maximum and Mean(average) of each column
+ - Median(mid-point or middle value) and Standard Deviation(measure of dispersion or how spread out numbers are)
  - 80th percentile of of each column
  - Histogram
  - Scatterplot
