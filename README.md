@@ -47,6 +47,7 @@ Python libraries are collections of functions and methods that allows you to per
  - Histogram
  - Scatterplot
 
+The file called code contains the python scripts with explanations and results os the calculations and analysis
 
 ## Summary of my investigation of the the dat-set
 
