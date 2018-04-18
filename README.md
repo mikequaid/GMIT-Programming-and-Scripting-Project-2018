@@ -35,7 +35,11 @@ The following were required before any python scrits were written:
  - Python version 3.6 downloaded (via [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)))
  - [Microsoft Visual Studio tool](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) installed
  - Copy of Iris data-set created as a text file in my project folder on my laptop
- - Libraries imported: csv, pandas, numpy, matplotlib and sklearn
+ - Python libraries imported: csv, pandas, numpy, matplotlib and sklearn
+ - Calculations and analysis were performed on the Iris data-set using Python scripts
+ - Summarising of my investigation of the the dat-set 
+ 
+Python libraries are collections of functions and methods that allows you to perform numerous actions and functions.Pandas - for data-frame management package that allows for some useful function on the dataset. Numpy - package useful for lineal algebra. Matplotlib - good package to contruct visualizations. Sklearn - package important to do machine learning in python.
 
 # References
 1 Python Software https://www.python.org/
