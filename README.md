@@ -37,9 +37,19 @@ The following were required before any python scrits were written:
  - Copy of Iris data-set created as a text file in my project folder on my laptop
  - Python libraries imported: csv, pandas, numpy, matplotlib and sklearn
  - Calculations and analysis were performed on the Iris data-set using Python scripts
- - Summarising of my investigation of the the dat-set 
  
 Python libraries are collections of functions and methods that allows you to perform numerous actions and functions.Pandas - for data-frame management package that allows for some useful function on the dataset. Numpy - package useful for lineal algebra. Matplotlib - good package to contruct visualizations. Sklearn - package important to do machine learning in python.
+
+## The following calculations and analysis were performed on the data-set
+ - Minimum,Maximum and Mean of each column
+ - Median and Standard Deviation
+ - 80th percentile of of each column
+ - Histogram
+ - Scatterplot
+
+
+## Summary of my investigation of the the dat-set
+
 
 # References
 1 Python Software https://www.python.org/
