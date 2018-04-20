@@ -10,26 +10,26 @@ data=numpy.genfromtxt('iris.txt',delimiter=',') # read data file into an array
 
 # calculate the mean of each column in the array
 meansepallength=numpy.mean(data[:,0]) 
-print(meanfirstcol)
+print(meansepallength)
 
 meansepalwidth=numpy.mean(data[:,1]) 
-print(meansecondcol)
+print(meansepalwidth)
 
 meanpetallength=numpy.mean(data[:,2]) 
-print(meanthirdcol)
+print(meanpetallength)
 
 meanpetalwidth=numpy.mean(data[:,3]) 
-print(meanfourthcol)
+print(meanpetalwidth)
 
 # calculate the maximum value in each column in the array
 maxsepallength=numpy.max(data[:,0])
-print(maxfirstcol)
+print(maxsepallength)
 
 maxsepalwidth=numpy.max(data[:,1])
-print(maxsecondcol)
+print(maxsepalwidth)
 
 maxpetallength=numpy.max(data[:,2])
-print(maxthirdcol)
+print(maxpetallength)
 
 maxpetalwidth=numpy.max(data[:,3])
-print(maxfourthcol)
+print(maxpetalwidth)
