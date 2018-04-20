@@ -10,10 +10,10 @@ data=numpy.genfromtxt('iris.txt',delimiter=',') # read data file into an array
 
 # calculate the mean of each column in the array
 meansepallength=numpy.mean(data[:,0]) 
-print(meansepallength)
+print('mean sepal length ',meansepallength)
 
 meansepalwidth=numpy.mean(data[:,1]) 
-print(meansepalwidth)
+print(round(meansepalwidth),2)
 
 meanpetallength=numpy.mean(data[:,2]) 
 print(meanpetallength)
@@ -33,3 +33,46 @@ print(maxpetallength)
 
 maxpetalwidth=numpy.max(data[:,3])
 print(maxpetalwidth)
+
+# calculate the minimum value in each column in the array
+minsepallength=numpy.min(data[:,0])
+print(minsepallength)
+
+minsepalwidth=numpy.min(data[:,1])
+print(minsepalwidth)
+
+minpetallength=numpy.min(data[:,2])
+print(minpetallength)
+
+minpetalwidth=numpy.min(data[:,3])
+print(minpetalwidth)
+
+# calculate the percentile value in each column in the array
+persepallength=numpy.percentile(data[:,0],.5)
+print(persepallength)
+
+# calculate the median value in each column in the array
+mediansepallength=numpy.median(data[:,0])
+print(mediansepallength)
+
+mediansepalwidth=numpy.median(data[:,1])
+print(mediansepalwidth)
+
+medianpetallength=numpy.median(data[:,2])
+print(medianpetallength)
+
+medianpetalwidth=numpy.median(data[:,3])
+print(medianpetalwidth)
+
+# calculate the standard deviation of each column in the array
+sdsepallength=numpy.std(data[:,0])
+print(sdsepallength)
+
+sdsepalwidth=numpy.std(data[:,1])
+print(sdsepalwidth)
+
+sdpetallength=numpy.std(data[:,2])
+print(sdpetallength)
+
+sdpetalwidth=numpy.std(data[:,3])
+print(sdpetalwidth)
