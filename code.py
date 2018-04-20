@@ -2,7 +2,7 @@
 
 import numpy # numpy is a package or library of functions
 
-data=numpy.genfromtxt('iris.txt',delimiter=',') # read data file into an array
+data=numpy.genfromtxt('iris.txt',delimiter=',',dtype=float) # read data file into an array
 
 # each element of the array is seperated by a comma in the raw data file
 # the first column is [:,0]
