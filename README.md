@@ -52,6 +52,9 @@ The file called code contains the python scripts with explanations and results o
 ## Summary of my investigation of the the dat-set
 
 
+#![](iris_outcomes.PNG)
+
+
 # References
 1 Python Software https://www.python.org/
 
