@@ -52,7 +52,8 @@ The file called code contains the python scripts with explanations and results o
 ## Summary of my investigation of the the dat-set
 
 
-#![](iris_stats_outputs.PNG)
+The following is a screen-shot of my python code outputs
+![](iris_stats_outputs.PNG)
 
 
 # References
