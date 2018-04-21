@@ -41,9 +41,9 @@ The following were required before any python scrits were written:
 Python libraries are collections of functions and methods that allows you to perform numerous actions and functions.Pandas - for data-frame management package that allows for some useful function on the dataset. Numpy - package useful for lineal algebra. Matplotlib - good package to contruct visualizations. Sklearn - package important to do machine learning in python.
 
 ## The following calculations and analysis were performed on the data-set
- - Minimum,Maximum and Mean(average) of each column
+ - Minimum,Maximum and Mean(average) of each feature(length and the width of the sepals and petals)
  - Median(mid-point or 50th percentile) and Standard Deviation(measure of dispersion or how spread out numbers are)
- - 80th percentile of of each column(this represents relative standing of a particular value,80% of values are lower) 
+ - 80th percentile of of each feature(this represents relative standing of a particular value,80% of values are lower) 
  - Histogram
  - Scatterplot
 
