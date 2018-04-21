@@ -47,12 +47,12 @@ Python libraries are collections of functions and methods that allows you to per
  - Histogram
  - Scatterplot
 
-The file called [code.py](code.py) contains the python scripts with explanations and results os the calculations and analysis
+The file called [code.py](code.py) contains the python scripts with explanations of code and any relevant referencese.
 
 ## Summary of my investigation of the the dat-set
 
 
- The following is a screen-shot of my python code outputs
+ The following is a screen-shot of my python code outputs(calculations and analysis)
 
 
 ![](iris_stats_outputs.PNG)
