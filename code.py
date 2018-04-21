@@ -1,5 +1,5 @@
 # Mike Quaid 19042018
-# Below is the python scripts analysing the Iris dat-set
+# Below are the python scripts analysing the Iris dat-set
 # Note 1 - Where appropriate numbers are rounded to 2 decimal places
 #          for presentation purposes via built-in function round()
 #          https://docs.python.org/3/library/functions.html#round
