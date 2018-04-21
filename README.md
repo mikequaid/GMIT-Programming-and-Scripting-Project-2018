@@ -42,7 +42,7 @@ Python libraries are collections of functions and methods that allows you to per
 
 ## The following calculations and analysis were performed on the data-set
  - Minimum,Maximum and Mean(average) of each column
- - Median(mid-point or middle value or 50th percentile) and Standard Deviation(measure of dispersion or how spread out numbers are)
+ - Median(mid-point or 50th percentile) and Standard Deviation(measure of dispersion or how spread out numbers are)
  - 80th percentile of of each column(this represents relative standing of a particular value,80% of values are lower) 
  - Histogram
  - Scatterplot
