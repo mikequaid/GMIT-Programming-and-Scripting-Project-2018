@@ -49,6 +49,10 @@ Python libraries are collections of functions and methods that allows you to per
 
 The file called [code.py](code.py) contains the python scripts with explanations of code and any relevant references.
 
+Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values.  These range of of values are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar.  The higher that the bar is, the greater the frequency of data values in that bin.
+
+
+
 ## Summary of my investigation of the the dat-set
 
 
@@ -56,6 +60,8 @@ The file called [code.py](code.py) contains the python scripts with explanations
 
 
 ![](iris_stats_outputs.PNG)
+
+
 
 
 # References
