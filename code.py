@@ -89,3 +89,38 @@ print('SD petal length is',sdpetallength)
 
 sdpetalwidth=numpy.std(data[:,3]).round(2)
 print('SD petal width is',sdpetalwidth)
+
+
+import matplotlib.pyplot as pl
+# Matplotlib is a plotting(or graphing) library
+# Histograms provide a visual interpretation of numerical data
+# by indicating the number of data points that lie within a range of values
+
+pl.hist(data[:,0])
+pl.title('Histogram of sepal length')  # title of histogram
+pl.xlabel('Sepal length in cm')  # x axis label
+pl.ylabel('Frequency / Number of flowers')  # y axis label
+pl.savefig('sepal_length_hist.png')  # save plot
+pl.show() # show the histogram
+
+pl.hist(data[:,1])
+pl.title('Histogram of sepal width')  # title of histogram
+pl.xlabel('Sepal width in cm')  # x axis label
+pl.ylabel('Frequency / Number of flowers')  # y axis label
+pl.savefig('sepal_width_hist.png')  # save plot
+pl.show() # show the histogram
+
+pl.hist(data[:,2])
+pl.title('Histogram of petal length')  # title of histogram
+pl.xlabel('Petal length in cm')  # x axis label
+pl.ylabel('Frequency / Number of flowers')  # y axis label
+pl.savefig('petal_length_hist).png')  # save plot
+pl.show() # show the histogram
+
+pl.hist(data[:,3])
+pl.title('Histogram of petal width')  # title of histogram
+pl.xlabel('Petal width in cm')  # x axis label
+pl.ylabel('Frequency / Number of flowers')  # y axis label
+pl.savefig('petal_width_hist.png')  # save plot
+pl.show() # show the histogram
+
