@@ -61,7 +61,7 @@ Based on the analysis as summarised below,the following are the key observations
 
  - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right are evenly distributed
  
- - 
+ - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum
 
  The following is a screen-shot of my python code outputs(calculations and analysis)
 
