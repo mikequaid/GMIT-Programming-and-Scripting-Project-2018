@@ -57,7 +57,10 @@ Histograms provide a visual interpretation of numerical data by indicating the n
 
 Based on the analysis as summarised below,the following are the key observations:
 
- - Comparing the histogram for the 4 features,visually the sepal width is the most evenly distributed and this is confirmed by sepal width having the lowest standard deviation
+ - Comparing the histogram for the 4 features,visually the sepal width is the most evenly distributed and this is confirmed by sepal width having the lowest standard deviation(.43)
+
+ - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right are evenly distributed
+ 
  - 
 
  The following is a screen-shot of my python code outputs(calculations and analysis)
