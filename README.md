@@ -53,7 +53,7 @@ Histograms provide a visual interpretation of numerical data by indicating the n
 
 
 
-## Summary of my investigation of the the dat-set
+## Summary of my investigation of the the data-set
 
 Based on the analysis as summarised below,the following are the key observations:
 
