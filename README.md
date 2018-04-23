@@ -65,11 +65,12 @@ Based on the analysis as summarised below,the following are the key observations
 
  The following is a screen-shot of my python code outputs(calculations and analysis)
 
-
 ![](iris_stats_outputs.PNG)
 
 
+The following is a Histogram of the 4 features,output by python scripts via file [code.py](code.py)
 
+![](Hist.JPG)
 
 # References
 1 Python Software https://www.python.org/
