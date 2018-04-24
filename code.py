@@ -124,3 +124,16 @@ pl.ylabel('Frequency / Number of flowers')  # y axis label
 pl.savefig('petal_width_hist.png')  # save plot
 pl.show() # show the histogram
 
+# explain
+import matplotlib.pyplot as plt
+x=[data[:,0]]
+y=[data[:,1]]
+
+
+plt.scatter(x,y,label='flow',s=25,marker='*')
+plt.xlabel('sepal length')
+plt.ylabel('sepal width')
+plt.title('plot of sepal')
+plt.legend('species')
+plt.show()
+
