@@ -59,7 +59,7 @@ Based on the analysis as summarised below,the following are the key observations
 
  - Comparing the histogram for the 4 features,visually the sepal width is the most evenly distributed and this is confirmed by sepal width having the lowest standard deviation(.43)
 
- - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right are evenly distributed
+ - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right of this histogram is evenly distributed
  
  - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum
 
