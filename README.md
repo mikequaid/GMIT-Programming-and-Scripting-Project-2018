@@ -51,7 +51,7 @@ The file called [code.py](code.py) contains the python scripts with explanations
 
 Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values.  These range of of values are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar.  The higher that the bar is, the greater the frequency of data values in that bin [5].
 
-A scatter plot (also called a scatter graph) is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data [6].
+A scatter plot (also called a scatter graph) is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data [6].These graphs can show the extent of correlation between 2 variables.
 
 
 
