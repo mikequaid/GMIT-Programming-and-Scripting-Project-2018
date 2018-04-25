@@ -74,6 +74,10 @@ The following is a Histogram of the 4 features,output by python scripts via file
 
 ![](Hist.JPG)
 
+The following is a Scatter Graph of the 2 parts(Sepal and Petal) of the Iris flower,output by python scripts via file [code.py](code.py)
+
+![](scatterplots.JPG)
+
 # References
 1 Python Software https://www.python.org/
 
