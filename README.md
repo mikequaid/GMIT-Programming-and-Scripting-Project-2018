@@ -38,7 +38,7 @@ The following were required before any python scrits were written:
  - Python libraries imported: csv, pandas, numpy, matplotlib and sklearn
  - Calculations and analysis were performed on the Iris data-set using Python scripts
  
-Python libraries are collections of functions and methods that allows you to perform numerous actions and functions.Pandas - for data-frame management package that allows for some useful function on the dataset. Numpy - package useful for lineal algebra. Matplotlib - good package to contruct visualizations. Sklearn - package important to do machine learning in python.
+Python libraries are collections of functions and methods that allows you to perform numerous actions and functions [NumPy](http://www.numpy.org/) is the fundamental package for scientific computing with Python. Matplotlib is a plotting(or graphing) library for the [Python](https://matplotlib.org/).
 
 ## The following calculations and analysis were performed on the data-set
  - Minimum,Maximum and Mean(average) of each feature(length and the width of the sepals and petals)
@@ -49,7 +49,7 @@ Python libraries are collections of functions and methods that allows you to per
 
 The file called [code.py](code.py) contains the python scripts with explanations of code and any relevant references.
 
-Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values.  These range of of values are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar.  The higher that the bar is, the greater the frequency of data values in that bin.
+Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values.  These range of of values are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar.  The higher that the bar is, the greater the frequency of data values in that bin [5].
 
 
 
@@ -80,6 +80,8 @@ The following is a Histogram of the 4 features,output by python scripts via file
 3 https://www.techopedia.com/definition/32880/iris-flower-data-set
 
 4 IBM https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-the-iris-data-set/
+
+5 Histogram explained https://www.thoughtco.com/what-is-a-histogram-3126359
 
 
 
