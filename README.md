@@ -38,7 +38,7 @@ The following were required before any python scrits were written:
  - Python libraries imported: csv, pandas, numpy, matplotlib and sklearn
  - Calculations and analysis were performed on the Iris data-set using Python scripts
  
-Python libraries are collections of functions and methods that allows you to perform numerous actions and functions [NumPy](http://www.numpy.org/) is the fundamental package for scientific computing with Python. Matplotlib is a plotting(or graphing) library for the [Python](https://matplotlib.org/).
+Python libraries are collections of functions and methods that allows you to perform numerous actions and functions [NumPy](http://www.numpy.org/) is the fundamental package for scientific computing with Python. [Matplotlib](https://matplotlib.org/) is a plotting(or graphing) library for the Python.
 
 ## The following calculations and analysis were performed on the data-set
  - Minimum,Maximum and Mean(average) of each feature(length and the width of the sepals and petals)
