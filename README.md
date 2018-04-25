@@ -51,6 +51,8 @@ The file called [code.py](code.py) contains the python scripts with explanations
 
 Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values.  These range of of values are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar.  The higher that the bar is, the greater the frequency of data values in that bin [5].
 
+A scatter plot (also called a scatter graph) is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data [6].
+
 
 
 ## Summary of my investigation of the the data-set
@@ -83,6 +85,7 @@ The following is a Histogram of the 4 features,output by python scripts via file
 
 5 Histogram explained https://www.thoughtco.com/what-is-a-histogram-3126359
 
+6 Scatterplot explaines https://en.wikipedia.org/wiki/Scatter_plot
 
 
 
