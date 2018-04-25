@@ -85,7 +85,7 @@ The following is a Histogram of the 4 features,output by python scripts via file
 
 5 Histogram explained https://www.thoughtco.com/what-is-a-histogram-3126359
 
-6 Scatterplot explaines https://en.wikipedia.org/wiki/Scatter_plot
+6 Scatterplot explained https://en.wikipedia.org/wiki/Scatter_plot
 
 
 
