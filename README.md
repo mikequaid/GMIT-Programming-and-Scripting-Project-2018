@@ -67,16 +67,16 @@ Based on the analysis as summarised below,the following are the key observations
  
  - Comparing the 2 scatterplots (Sepal v Petal) the pattern of data points in Petal shows a stronger correlation(or realtionship) between length and width.This means as the values of lenth or width increases the other also increases and visa versa.
 
- The following is a screen-shot of my python code outputs(calculations and analysis)
+ The following is a screen-shot of my python code outputs(calculations and analysis):
 
 ![](iris_stats_outputs.PNG)
 
 
-The following is a Histogram of the 4 features,output by python scripts via file [code.py](code.py)
+The following is a Histogram of the 4 features,output by python scripts via file [code.py](code.py):
 
 ![](Hist.JPG)
 
-The following is a Scatter Graph of the 2 parts(Sepal and Petal) of the Iris flower,output by python scripts via file [code.py](code.py)
+The following is a Scatter Graph of the 2 parts(Sepal and Petal) of the Iris flower,output by python scripts via file [code.py](code.py):
 
 ![](scatterplots.PNG)
 
