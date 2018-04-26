@@ -35,7 +35,7 @@ The following were required before any python scrits were written:
  - Python version 3.6 downloaded (via [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)))
  - [Microsoft Visual Studio tool](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) installed
  - Copy of Iris data-set created as a text file in my project folder on my laptop
- - Python libraries imported: csv, pandas, numpy, matplotlib and sklearn
+ - Python libraries imported: numpy and matplotlib
  - Calculations and analysis were performed on the Iris data-set using Python scripts
  
 Python libraries are collections of functions and methods that allows you to perform numerous actions and functions. [NumPy](http://www.numpy.org/) is the fundamental package for scientific computing with Python. [Matplotlib](https://matplotlib.org/) is a plotting(or graphing) library for the Python.
