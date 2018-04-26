@@ -65,7 +65,7 @@ Based on the analysis as summarised below,the following are the key observations
  
  - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum
  
- - Comparing the 2 scatterplots (Sepal v Petal) the pattern of data points in Petal shows a stronger correlation(or realtionship) between length and width.This means as the values of lenth or width increases the other also increases and visa versa.
+ - Comparing the 2 scatterplots (Sepal v Petal) the pattern of data points in Petal shows a stronger correlation(or realtionship) between length and width.This means as the values of length or width increases the other also increases and visa versa.
 
  The following is a screen-shot of my python code outputs(calculations and analysis):
 
