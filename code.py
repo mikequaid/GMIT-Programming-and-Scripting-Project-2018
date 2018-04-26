@@ -52,16 +52,16 @@ minpetalwidth=numpy.min(data[:,3])
 print('min petal width is',minpetalwidth)
 
 # calculate the percentile value in each column in the array
-persepallength=numpy.percentile(data[:,0],.8)
+persepallength=numpy.percentile(data[:,0],80).round(2)
 print('80th Percentile sepal length is',persepallength)
 
-persepalwidth=numpy.percentile(data[:,1],.8)
+persepalwidth=numpy.percentile(data[:,1],80)
 print('80th Percentile sepal width is',persepalwidth)
 
-perpetallength=numpy.percentile(data[:,2],.8).round(2)
+perpetallength=numpy.percentile(data[:,2],80).round(2)
 print('80th Percentile petal length is',perpetallength)
 
-perpetalwidth=numpy.percentile(data[:,3],.8)
+perpetalwidth=numpy.percentile(data[:,3],80)
 print('80th Percentile petal width is',perpetalwidth)
 
 # calculate the median value in each column in the array
