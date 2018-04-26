@@ -1,5 +1,5 @@
 # Mike Quaid 19042018
-# Below are the python scripts analysing the Iris dat-set
+# Below is the python scripts analysing the Iris dat-set
 # Note 1 - Where appropriate numbers are rounded to 2 decimal places
 #          for presentation purposes via built-in function round()
 #          https://docs.python.org/3/library/functions.html#round
@@ -36,7 +36,7 @@ maxpetallength=numpy.max(data[:,2])
 print('max petal length is',maxpetallength)
 
 maxpetalwidth=numpy.max(data[:,3])
-print('max petal length is',maxpetalwidth)
+print('max petal width is',maxpetalwidth)
 
 # calculate the minimum value in each column in the array
 minsepallength=numpy.min(data[:,0])
@@ -90,11 +90,11 @@ print('SD petal length is',sdpetallength)
 sdpetalwidth=numpy.std(data[:,3]).round(2)
 print('SD petal width is',sdpetalwidth)
 
-
 import matplotlib.pyplot as pl
 # Matplotlib is a plotting(or graphing) library
 # Histograms provide a visual interpretation of numerical data
 # by indicating the number of data points that lie within a range of values
+# the first column of data-set is sepal length represented by data[:,0]
 
 pl.hist(data[:,0])
 pl.title('Histogram of sepal length')  # title of histogram
@@ -124,16 +124,28 @@ pl.ylabel('Frequency / Number of flowers')  # y axis label
 pl.savefig('petal_width_hist.png')  # save plot
 pl.show() # show the histogram
 
-# explain
+# Display a scatter graph of sepal length and width
+# and seperately graph petal length and width
+# length is one variable presented on x axis
+# width is one variable presented on y axis
+# the first column of data-set is sepal length represented by data[:,0]
+# https://pythonspot.com/matplotlib-scatterplot/
+
 import matplotlib.pyplot as plt
 x=[data[:,0]]
 y=[data[:,1]]
 
-
 plt.scatter(x,y,label='flow',s=25,marker='*')
-plt.xlabel('sepal length')
-plt.ylabel('sepal width')
+plt.xlabel('sepal length in cm')
+plt.ylabel('sepal width in cm')
 plt.title('plot of sepal')
-plt.legend('species')
 plt.show()
 
+x=[data[:,2]]
+y=[data[:,3]]
+
+plt.scatter(x,y,label='flow',s=25,marker='*')
+plt.xlabel('petal length in cm')
+plt.ylabel('petal width in cm')
+plt.title('plot of petal')
+plt.show()
