@@ -64,6 +64,8 @@ Based on the analysis as summarised below,the following are the key observations
  - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right of this histogram is evenly distributed
  
  - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum
+ 
+ - Comparing the 2 scatterplots (Sepal v Petal) the pattern of data points in Petal shows a stronger correlation(or realtionship) between length and width.This means as the values of lenth or width increases the other also increases and visa versa.
 
  The following is a screen-shot of my python code outputs(calculations and analysis)
 
