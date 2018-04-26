@@ -59,13 +59,15 @@ A scatter plot (also called a scatter graph) is a type of plot or mathematical d
 
 Based on the analysis as summarised below,the following are the key observations:
 
- - Comparing the histogram for the 4 features,visually the sepal width is the most evenly distributed and this is confirmed by sepal width having the lowest standard deviation(.43)
+ - Comparing the histogram for the 4 features,visually the sepal width is the most evenly distributed and this is confirmed by sepal width having the lowest standard deviation(.43).
 
- - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right of this histogram is evenly distributed
+ - The petal length has the highest standard deviation(1.76) and looking at the histogram there are 2 seperate goupings within the data,the group of data points on the right of this histogram is evenly distributed.
  
- - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum
+ - The sepal length has the highest mean(average) of 5.84 and this is consistent with sepal length having the highest maximum and minimum.
  
  - Comparing the 2 scatterplots (Sepal v Petal) the pattern of data points in Petal shows a stronger correlation(or realtionship) between length and width.This means as the values of length or width increases the other also increases and visa versa.
+ 
+ - From the output screen-shot below you can see and compare the 80th percentile for each feature,this means that 80% of the measurements are equal to or lower than this value.
 
  The following is a screen-shot of my python code outputs(calculations and analysis):
 
